@@ -9,6 +9,6 @@ module.exports = {
     // mode: 'production',
     mode: 'development',
     devServer: {
-      allowedHosts: ['reed-macdesk']
+      allowedHosts: ['reed-mac']
     }
 };
